@@ -1,0 +1,1 @@
+Construtores são um tipo de método especial que é utilizado no momento em que é instanciado o objeto. Eles são "public" e não precisam do "void" ou do retorno (String, double, boolean, etc..). Pode usar mais de um construtor, porém deve ser diferenciados pelo número de argumentos e pelo tipo dos mesmos.
